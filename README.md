@@ -34,4 +34,13 @@ Our tool could enhance returns available to smaller investors by providing analy
 - Volume Related Strategies
 
 ## NEXT STEPS/FUTURE RECOMMENDATIONS:  
-investigate other technical trading strategies/explore (fundamental) factor-based investing/expand into other asset classes such as real estate, foreign stocks as opposed to indices.
+- Improve current analysis:
+  - Fine-tune parameters
+  - Cluster indicators/signals
+  - Include more data
+  - Include other technical analysis indicators
+- Clustering stocks/asset classes based on feature importances 
+- Testing monetary performance of our analysis
+- Comparison between technical analysis vs. fundamental analysis; blended analysis + sentimental analysis?
+- Apply different machine learning models 
+
