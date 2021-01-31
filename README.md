@@ -1,12 +1,12 @@
 # FinTech-Project-2
 
 ## TEAM MEMBERS:  
-Joyce Mbika, Sebastien Vezina, Stephen Chen, Wazarat Hussein, & Val De Franco
-[Joyce Mbika](https://github.com/joycembika)
-[Sebastien Vezina](https://github.com/SebCoding)
-[Stephen Chen](https://github.com/schenht)
-[Wazarat Hussein](https://github.com/wazarat)
-[Val De Franco](https://github.com/DEFRANCOV)
+
+- [Joyce Mbika](https://github.com/joycembika)
+- [Sebastien Vezina](https://github.com/SebCoding)
+- [Stephen Chen](https://github.com/schenht)
+- [Wazarat Hussein](https://github.com/wazarat)
+- [Val De Franco](https://github.com/DEFRANCOV)
 
 
 ## BACKGROUND:   
