@@ -2,6 +2,12 @@
 
 ## TEAM MEMBERS:  
 Joyce Mbika, Sebastien Vezina, Stephen Chen, Wazarat Hussein, & Val De Franco
+[Joyce Mbika](https://github.com/joycembika)
+[Sebastien Vezina](https://github.com/SebCoding)
+[Stephen Chen](https://github.com/schenht)
+[Wazarat Hussein](https://github.com/wazarat)
+[Val De Franco](https://github.com/DEFRANCOV)
+
 
 ## BACKGROUND:   
 The holy grail of investing or trading is to be able to predict future prices with some certainty. For years, quantitative traders have used different indicators from technical analysis to study price action and to generate trading signals. The aim of our project is to implement common technical indicators into a machine learning framework for quantitative trading.
