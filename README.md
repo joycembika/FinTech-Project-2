@@ -17,13 +17,21 @@ Our tool could enhance returns available to smaller investors by providing analy
 - Commodities
 
 ## DATA SOURCES:   
-Yahoo Finance, Capital IQ, Coingecko
+- Yahoo Finance 
+- Capital IQ 
+- Coingecko
 
 ## NEW LIBRARIES:  
-Pycoingecko
+- Pycoingecko
 
 ## TECHNICAL TRADING STRATEGIES:  
-Exponential Moving Average / Absolute Price Oscillator / MACD / Bollinger Bands / RSI / Average Directional Movement Index / Volume Related Strategies
+- Exponential Moving Average
+- Absolute Price Oscillator
+- MACD
+- Bollinger Bands
+- RSI
+- Average Directional Movement Index
+- Volume Related Strategies
 
 ## NEXT STEPS/FUTURE RECOMMENDATIONS:  
 investigate other technical trading strategies/explore (fundamental) factor-based investing/expand into other asset classes such as real estate, foreign stocks as opposed to indices.
